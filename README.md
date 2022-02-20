@@ -7,3 +7,8 @@ Step 4:- Get your cursor on "More tools"--> "Extenisons".
 Step 5:- Make sure the Developer Mode is "ON" in the top right corner.
 Step 6:- Click on Load Unpacked and navigate to the extracted folder. Make sure you select the inner folder within the extracted foler where all the files exist.
 Step 7:- There's nothing here actually just go to https://www.nytimes.com/games/wordle/index.html and see the magic.
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
